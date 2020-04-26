@@ -57,3 +57,5 @@ References
 [https://github.com/LestaAllmaron/EmbeddedFPSExample](https://github.com/LestaAllmaron/EmbeddedFPSExample "https://github.com/LestaAllmaron/EmbeddedFPSExample")
 
 [https://github.com/RevenantX/NetGameExample](https://github.com/RevenantX/NetGameExample "https://github.com/RevenantX/NetGameExample")
+
+[https://github.com/RomanZhu/Entitas-Sync-Framework](https://github.com/RomanZhu/Entitas-Sync-Framework "https://github.com/RomanZhu/Entitas-Sync-Framework")
