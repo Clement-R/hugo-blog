@@ -43,3 +43,17 @@ Still an unknown library for me, I just discovered it through the Entitas docume
 I want to build a project to try one of those libraries, it's going to be a card game known as _La ratatouille_ or _Le barbu_ in France.
 
 I'll be using the Entitas ECS framework because we started using it at work and I'm in love with ECS way of coding. The Unity DOTs stack is not well documented enough for the moment, using it would require a steep learning curve that I keep for another experiment project.
+
+References
+
+[https://github.com/sschmid/Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp "https://github.com/sschmid/Entitas-CSharp")
+
+[https://darkriftnetworking.com/darkrift2](https://darkriftnetworking.com/darkrift2 "https://darkriftnetworking.com/darkrift2")
+
+[https://github.com/RevenantX/LiteNetLib](https://github.com/RevenantX/LiteNetLib "https://github.com/RevenantX/LiteNetLib")
+
+[https://github.com/nxrighthere/ENet-CSharp](https://github.com/nxrighthere/ENet-CSharp "https://github.com/nxrighthere/ENet-CSharp")
+
+[https://github.com/LestaAllmaron/EmbeddedFPSExample](https://github.com/LestaAllmaron/EmbeddedFPSExample "https://github.com/LestaAllmaron/EmbeddedFPSExample")
+
+[https://github.com/RevenantX/NetGameExample](https://github.com/RevenantX/NetGameExample "https://github.com/RevenantX/NetGameExample")
