@@ -2,7 +2,7 @@
 title: Cone sight vision - Unity tutorial
 date: 2019-08-16T19:15:34.000+00:00
 type: blog
-author: ''
+author: Clément
 hero: "/images/jj-ying-7JX0-bfiuxQ-unsplash.jpg"
 
 ---
