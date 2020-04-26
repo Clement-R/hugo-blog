@@ -37,3 +37,9 @@ This is the networking solution that I use at work on our new multiplayer mobile
 **ENet**
 
 Still an unknown library for me, I just discovered it through the Entitas documentation.
+
+# The prototype
+
+I want to build a project to try one of those libraries, it's going to be a card game known as _La ratatouille_ or _Le barbu_ in France.
+
+I'll be using the Entitas ECS framework because we started using it at work and I'm in love with ECS way of coding. The Unity DOTs stack is not well documented enough for the moment, using it would require a steep learning curve that I keep for another experiment project.
